@@ -1,1 +1,1 @@
-# ImageFilteringSystem
+# Image Filtering System
