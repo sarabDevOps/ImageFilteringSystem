@@ -37,7 +37,7 @@ can be performed by tiling over the image as shown in Fig. 2. If the image is in
 the convolution needs to be applied separately to each colour channel.
 
 ### Below shows a set of convolution kernels and their effect on an image
-![](https://github.com/sarabDevOps/ImageFilteringSystem/blob/main/Matrix.PNG)
+![](https://github.com/sarabDevOps/ImageFilteringSystem/blob/main/inputEffects.PNG)
 
 
 ### Getting Started
