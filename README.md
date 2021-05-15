@@ -36,6 +36,9 @@ all pixels are encoded with 1 byte and have a value in the range [0..255] and th
 can be performed by tiling over the image as shown in Fig. 2. If the image is in RGB colour, 
 the convolution needs to be applied separately to each colour channel.
 
+### Below shows a set of convolution kernels and their effect on an image
+![](https://github.com/sarabDevOps/ImageFilteringSystem/blob/main/Matrix.PNG)
+
 
 ### Getting Started
 
