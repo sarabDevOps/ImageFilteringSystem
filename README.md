@@ -24,7 +24,7 @@ sharpening and embossing and are created by applying a matrix of values to each 
 image. The matrix of values is called a convolution matrix, a kernel, or a kernel matrix. A 
 convolution is a mathematical operation that blends two functions together
 
-![](https://github.com/sarabDevOps/RacketProject/blob/main/rpn.JPG)
+![](https://github.com/sarabDevOps/ImageFilteringSystem/blob/main/Matrix.PNG)
 
 The matrix itself is just a 2D array of numbers that slides across the pixels of the rasterized 
 image and is used to compute a new value for each pixel. In the image in Fig. 2, the 3 x 3 kernel 
