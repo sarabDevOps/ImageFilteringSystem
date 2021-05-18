@@ -46,7 +46,7 @@ Download the zip archive , Navigate to the folder using command promt ,
 
 This command will let you run the project :  java –cp ./oop.jar ie.gmit.sw.Runner.Runner
 
-For detail explanation please -> [Click Me ]()
+For detail explanation please -> [Click Me ](https://github.com/sarabDevOps/ImageFilteringSystem/blob/main/imageFilteringSystem/README.pdf)
 
 
 
