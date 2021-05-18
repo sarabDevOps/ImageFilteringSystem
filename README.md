@@ -42,9 +42,10 @@ the convolution needs to be applied separately to each colour channel.
 
 ### Getting Started
 
-Download the zip archive , Navigate to the folder usind command promt this command will let you run the project :
+Download the zip archive , Navigate to the folder using command promt ,
 
-java –cp ./oop.jar ie.gmit.sw.Runner.Runner
+This command will let you run the project :  java –cp ./oop.jar ie.gmit.sw.Runner.Runner
+
 
 
 ### Versioning
