@@ -27,7 +27,7 @@ convolution is a mathematical operation that blends two functions together
 ![](https://github.com/sarabDevOps/ImageFilteringSystem/blob/main/Matrix.PNG)
 
 The matrix itself is just a 2D array of numbers that slides across the pixels of the rasterized 
-image and is used to compute a new value for each pixel. In the image in Fig. 2, the 3 x 3 kernel 
+image and is used to compute a new value for each pixel. In the image , the 3 x 3 kernel 
 can be used to detect the edges in an image by changing the value of a pixel using the weights 
 in the kernel and the immediate surrounding pixels in the image. In the example, the pixel value
 89 is converted to 145 by the convolution. The same operation is applied to every pixel in the 
